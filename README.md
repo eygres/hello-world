@@ -1,3 +1,3 @@
 # hello-world
 Hello World git repository
-this is a test project as per hello world tutorial
+this is sample README file from rework branch
